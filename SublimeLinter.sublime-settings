@@ -23,7 +23,7 @@
                 "@disable": false,
                 "args": [
                     "--config",
-                    "/Users/daytonn/.jshintrc"
+                    "/Users/angeleahdaidone/.jshintrc"
                 ],
                 "excludes": []
             },

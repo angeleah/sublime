@@ -213,10 +213,10 @@
   {
     "class": "puck_control",
     "layer0.texture": "",
-    "layer0.tint": [39, 31, 29],
+    "layer0.tint": [68, 53, 42],
     "layer0.opacity": 1,
     "layer0.inner_margin": [0,0],
-    "content_margin": [1,0],
+    "content_margin": [3,0],
     "blur": false
   },
   // Standard horizontal scroll puck
@@ -224,9 +224,10 @@
     "class": "puck_control",
     "attributes": ["horizontal"],
     //"layer0.texture": "",
-    "layer0.tint": [39, 31, 29],
+    "layer0.tint": [68, 53, 42],
     "layer0.inner_margin": [0,0],
-    "content_margin": [1,1],
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    "content_margin": [0,4],
     "blur": false
   },
   // Overlay toggle scroll bar
