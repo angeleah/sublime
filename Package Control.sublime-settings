@@ -49,8 +49,7 @@
 		"SublimeLinter-shellcheck",
 		"SublimeLinter-xmllint",
 		"SublimeREPL",
-		"WordCount",
-		"Zen Tabs"
+		"WordCount"
 	],
 	"submit_usage": false
 }
